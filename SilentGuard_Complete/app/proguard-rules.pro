@@ -1,0 +1,2 @@
+-keep class com.silentguard.** { *; }
+-dontwarn com.google.android.gms.**
