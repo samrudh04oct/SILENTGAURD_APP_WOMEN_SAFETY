@@ -155,9 +155,10 @@ Evidence Vault
 
 ## Author
 
-**Samrudh**
-## Tech Enthusiast
-## Computer Science & Technology Student | Product Builder | Innovator
+|**Samrudh**|
+
+|Tech Enthusiast|
+Computer Science & Technology Student | Product Builder | Innovator
 
 ---
 
